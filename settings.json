@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Goon_Baboon",
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Slabomeat.aternos.me",
+    "port": 26888,
     "version": "",
     "try-creative": false
   },
